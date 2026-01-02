@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="389c0556-daba-6ecc-2115-d8fc444aac5d"/>
+            <attribute id="Name" type="LSString" value="dyeable_weapons"/>
+            <attribute id="UUID" type="LSString" value="13e30d6a-bca2-3904-f17e-b1dfe3e181c9"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>
